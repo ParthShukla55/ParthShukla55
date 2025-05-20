@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParthShukla55
+- 👋 Hi, I’m Parth Shukla
 - 👀 I’m interested in operating system
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
